@@ -36,8 +36,3 @@ streamlit run app.py
 - Shows accident hotspot clusters
 - Predicts accident severity
 - Works with Peshawar sample data by default
-
-## Notes
-
-- `dataset.zip`, `archive/`, and `__pycache__/` are not pushed
-- The repo on GitHub contains only the tracked project files
