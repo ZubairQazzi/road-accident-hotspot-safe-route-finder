@@ -9,6 +9,16 @@ This repository contains:
 - A **Jupyter notebook** documenting the end-to-end analysis and machine learning experiments.
 - Pretrained **Random Forest** and **ANN** model artifacts used during the project.
 
+## Dataset Download
+
+The large raw dataset is **not pushed to GitHub**.
+
+Download it here if you want to run the Miami workflow with the original source data:
+
+- [US Accidents Dataset on Kaggle](https://kaggle.com/datasets/sobhanmoosavi/us-accidents)
+
+After downloading, extract `US_Accidents_March23.csv` into the project root beside `app.py`.
+
 ## What Problem This Project Solves
 
 Road navigation tools usually optimize for speed or distance, but they do not explain whether a route passes through accident-heavy areas. This project adds a safety layer by:
@@ -164,7 +174,7 @@ This file is small and intended for quick testing, demos, and project review.
 
 ### Not included in this repository
 
-The full US accidents dataset is intentionally **not committed** because it is too large for a normal GitHub repository.
+The full US accidents dataset and local archive files are intentionally **not committed** because they are too large for a normal GitHub repository.
 
 Source:
 
