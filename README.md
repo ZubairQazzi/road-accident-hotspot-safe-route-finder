@@ -1,5 +1,9 @@
 # Road Accident Hotspot & Safe Route Finder
 
+## Live Demo
+
+- [Open the deployed Streamlit app](https://road-accident-hotspot-safe-route-finder-8huda6gvefxa6zwwri4haz.streamlit.app/)
+
 This project is a simple Streamlit app for accident analysis. It compares the **fastest** and **safest** routes, shows accident hotspot areas, and includes a basic severity prediction feature.
 
 ## Files In This Repo
